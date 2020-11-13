@@ -7,7 +7,7 @@ https://fabianffc.github.io/Fabian-Homework-week1/.
 
 ## Built With
 
-HTML. 
+HTML
 
 CSS
 
