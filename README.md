@@ -1,4 +1,6 @@
-# Horiseon Application
+# Horiseon Application  
+
+<img src= "./assets/images/horiseon.png">
 
 On this application we are given starter code that we need to modify to make it cleaner and easier to understand.
 
